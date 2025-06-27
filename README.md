@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=540&lines=Halo%2C+saya+Mas+Daus!;Programmer+Warung+yang+Serius+Ngoding!;Welcome+to+my+GitHub+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=540&lines=Halo%2C+saya+Mas+Daus!;Programmer+Warkop+yang+Kadang+Serius+Ngoding!;Welcome+to+my+GitHub+🛠️" alt="Typing SVG" />
 </p>
 
 ---
@@ -58,6 +58,7 @@ Sistem rental PS berbasis web: Timer, Member, Paket, dan siap koneksi Wemos. [bl
 ## ☕ Kontak
 [![Chat on WhatsApp](https://img.shields.io/badge/Chat%20di%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281332499304)  
 📧 inidaus@gmail.com
+
 🛒 Masih buka warung tiap hari 😄
 
 ---
