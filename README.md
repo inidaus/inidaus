@@ -1,50 +1,56 @@
 
-# 👋 Halo, saya Mas Daus!
+<h1 align="center">😎 Mas Daus</h1>
+<p align="center">
+  WarungStack Developer | Code Barista | Penggerak Langit Inovasi  
+</p>
+<p align="center">
+  <em>“Satu tangan ngoding, satu tangan ngasih kembalian. Tapi hati selalu di timer PlaySphere.”</em>
+</p>
 
-**WarungStack Developer** | **Code Barista** | **Penggerak Langit Inovasi**  
-> “Satu tangan ngoding, satu tangan ngasih kembalian. Tapi hati selalu di timer PlaySphere.”
-
----
-
-## 💼 Tentang Saya
-Saya seorang pelayan warung yang sedang meniti jalan sebagai programmer pemula.  
-Ngoding sambil jaga warung? Bukan masalah! Karena inspirasi bisa muncul di antara kopi dan ciki.
-
-Saya sedang membangun aplikasi bernama **PlaySphere**, sebuah sistem rental PS berbasis CodeIgniter 4, yang terkoneksi dengan Wemos D1 Mini untuk mengatur timer konsol secara real-time.
-
----
-
-## 🔧 Teknologi yang Saya Gunakan
-- PHP (CodeIgniter 4)
-- MySQL
-- Bootstrap & JavaScript
-- AJAX (biar gak reload-reload amat)
-- ESP8266 (Wemos D1 Mini) — nyambungin ke dunia nyata
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inidaus&label=Kunjungan+Warung&color=blueviolet&style=flat" alt="inidaus" />
+</p>
 
 ---
 
-## 🚧 Proyek Utama
+## 🧉 Tentang Saya
+Saya Mas Daus, programmer pemula yang belajar ngoding sambil jaga warung.  
+Ngoding dari balik etalase, dengan semangat langit dan kopi sachet!
 
+---
+
+## 🚀 Proyek Aktif
 ### 🎮 [PlaySphere](https://github.com/inidaus/playsphere)
-Sistem manajemen rental PS yang terintegrasi dengan member, paket, saldo, dan kontrol perangkat.
-
-### 📋 Aplikasi Kas Warung (COMING SOON)
-Sistem kas harian sederhana untuk warung dan UMKM, bisa export Excel dan cetak struk.
+Sistem rental PS berbasis web: Timer, Member, Paket, dan siap koneksi Wemos.
 
 ---
 
-## ☕ Fun Facts
-- Suka teknologi, suka mendaki, suka berkemah
-- Bisa ngoding sambil nyeduh kopi sachet
-- Motto hidup: *“Kalau bisa dibuat sederhana, ngapain ribet?”*
+## ⚙️ Tools & Teknologi
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-000000?style=flat&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-FFDD00?style=flat)
 
 ---
 
-## 📫 Kontak
-Kalau kamu mau ngobrol, kolaborasi, atau pesen Pop Mie sambil diskusi sistem rental:
-- WA / Email (tambahin sesuai kebutuhan)
-- Atau tinggal bintangin repo saya dan kirim issue 😄
+## 📊 Statistik Warung
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inidaus&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inidaus&layout=compact&theme=radical" width="45%" />
+</p>
 
 ---
 
-Terima kasih sudah mampir ke warung digital saya 🚀
+## ☕ Kontak
+Ngopi? Ngoding? Kolaborasi?
+- 📫 WA / Email (masukkan kontak)
+- 🛒 Masih buka warung tiap hari 😄
+
+---
+
+<p align="center">
+  ⭐ Terima kasih sudah mampir ke warung digital saya ⭐
+</p>
