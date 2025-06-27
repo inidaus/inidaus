@@ -20,8 +20,9 @@ Ngoding dari balik etalase, dengan semangat langit dan kopi sachet!
 ---
 
 ## 🚀 Proyek Aktif
-### 🎮 [PlaySphere](https://github.com/inidaus/playsphere)
+### 🎮 [PlaySphere](https://github.com/inidaus/playsphere) [PRIVATE]
 Sistem rental PS berbasis web: Timer, Member, Paket, dan siap koneksi Wemos.
+[MOHON MAAF, MASIH BELUM SHARE PUBLIK]
 
 ---
 
