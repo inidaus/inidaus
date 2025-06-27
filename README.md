@@ -46,7 +46,8 @@ Sistem rental PS berbasis web: Timer, Member, Paket, dan siap koneksi Wemos.
 
 ## ☕ Kontak
 Ngopi? Ngoding? Kolaborasi?
-- 📫 WA / Email (masukkan kontak)
+- 📫 [WhatsApp](https://wa.me/6281332499304)  
+- 📧 inidaus@gmail.com
 - 🛒 Masih buka warung tiap hari 😄
 
 ---
