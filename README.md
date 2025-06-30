@@ -64,5 +64,5 @@ Sistem rental PS berbasis web: Timer, Member, Paket, dan siap koneksi Wemos. [bl
 ---
 
 <p align="center">
-  ⭐ Terima kasih sudah mampir ke warung digital saya ⭐
+  ⭐ Terima kasih sudah mampir ke warkop digital saya ⭐
 </p>
