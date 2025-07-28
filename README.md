@@ -26,6 +26,9 @@ Ngoding dari balik meja bar, dengan semangat langit dan kopi sachet!
 ### 🎮 [PlaySphere](https://github.com/inidaus/playsphere) [privat]
 Sistem rental PS berbasis web: Timer, Member, Paket, dan siap koneksi Wemos. [blm share public]
 
+### 🧠 [CAT](https://github.com/inidaus/cat)
+💻 Computerized Adaptive Test System - Platform ujian online dengan soal adaptif, monitoring real-time, dan export laporan lengkap
+
 ---
 
 ## ⚙️ Tools & Teknologi
